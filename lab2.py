@@ -21,3 +21,4 @@ for i in z:
     sum = sum + i
     print("sum = " + str(sum) + "; i =" + str(i))
 print ("Total = " + str(sum))
+
